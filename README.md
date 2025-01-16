@@ -1,4 +1,6 @@
-# Astronomical Data Analysis and ML Model Optimization
+# Celestial Object Classification: Stars, Quasars, and Galaxies
+
+## Astronomical Data Analysis and ML Model Optimization
 
 ## Project Overview
 This project aims to analyze astronomical data to predict outcomes using various machine learning models. It includes essential tasks such as:
